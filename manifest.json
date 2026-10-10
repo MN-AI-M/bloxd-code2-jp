@@ -1,0 +1,92 @@
+{
+  "provider": "Argos Translate (local model)",
+  "sourceLanguage": "en",
+  "targetLanguage": "ja",
+  "pages": [
+    {
+      "source": "apireference.html",
+      "translated": "apireference.ja.html",
+      "translatedSegments": 626
+    },
+    {
+      "source": "blocknames.html",
+      "translated": "blocknames.ja.html",
+      "translatedSegments": 1354
+    },
+    {
+      "source": "changelog.html",
+      "translated": "changelog.ja.html",
+      "translatedSegments": 138
+    },
+    {
+      "source": "clientoptions.html",
+      "translated": "clientoptions.ja.html",
+      "translatedSegments": 187
+    },
+    {
+      "source": "entitysettings.html",
+      "translated": "entitysettings.ja.html",
+      "translatedSegments": 38
+    },
+    {
+      "source": "howto.html",
+      "translated": "howto.ja.html",
+      "translatedSegments": 170
+    },
+    {
+      "source": "icons.html",
+      "translated": "icons.ja.html",
+      "translatedSegments": 17
+    },
+    {
+      "source": "itemnames.html",
+      "translated": "itemnames.ja.html",
+      "translatedSegments": 1337
+    },
+    {
+      "source": "meshentities.html",
+      "translated": "meshentities.ja.html",
+      "translatedSegments": 70
+    },
+    {
+      "source": "mobsettings.html",
+      "translated": "mobsettings.ja.html",
+      "translatedSegments": 50
+    },
+    {
+      "source": "particles.html",
+      "translated": "particles.ja.html",
+      "translatedSegments": 6
+    },
+    {
+      "source": "pp.html",
+      "translated": "pp.ja.html",
+      "translatedSegments": 390
+    },
+    {
+      "source": "qte.html",
+      "translated": "qte.ja.html",
+      "translatedSegments": 61
+    },
+    {
+      "source": "readme.html",
+      "translated": "readme.ja.html",
+      "translatedSegments": 92
+    },
+    {
+      "source": "skins.html",
+      "translated": "skins.ja.html",
+      "translatedSegments": 27
+    },
+    {
+      "source": "vehiclesettings.html",
+      "translated": "vehiclesettings.ja.html",
+      "translatedSegments": 221
+    },
+    {
+      "source": "xv.html",
+      "translated": "xv.ja.html",
+      "translatedSegments": 33
+    }
+  ]
+}
